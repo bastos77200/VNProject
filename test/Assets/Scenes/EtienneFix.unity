@@ -913,7 +913,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52f00a626bb90c6479ab709e88b743af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inventoryUI: {fileID: 0}
+  inventoryUI: {fileID: 1121393442}
   itemsParent: {fileID: 376455502}
 --- !u!1 &1245173249
 GameObject:
